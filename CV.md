@@ -94,7 +94,9 @@ processes begin to be needed.
 *June 2019 to February 2021 at Lecip Arcontia*
 
 Since I had a great breadth of competence in a small company I ended up doing a
-bit of everything as needed.
+bit of everything as needed. Rather than only software development I also
+performed network administration tasks and acted as tech-support for other
+employees.
 
 Most notably:
 - I created a test harness and script to validate that the software abstractions
@@ -102,6 +104,6 @@ Most notably:
   issue that I physically traced to an improperly rotated component.
 - I rewrote a product presentation and binary download website that restricts
   downloads of binaries to customers who owned a device that needed it. The
-  site included proper authenticatio and authorization, as well as an
+  site included proper authentication and authorization, as well as an
   administration UI to add/update/delete products/binaries/users/permissions.
   It is still up at <https://dev.arcontia.se>.
