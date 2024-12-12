@@ -61,6 +61,8 @@ In my short time in the team I quickly got a grasp of the CI flow and core
 codebase, enabling me to make significant contributions and help establish new
 conventions within the codebase aimed to simplify usage and maintenance.
 
+Tools: Python, Zuul, Gerrit, GitLab
+
 
 #### HIL DevOps Engineer:
 *January 2023 - October 2024 at Volvo Cars via Nexer*
@@ -77,6 +79,8 @@ All of this on top of the teams core work of HIL operations, user support
 and feature development of a cross organizational CI/CD system with
 extensive HIL testing.
 
+Tools: Python, Cynosure Drive, Gerrit, SWDL, Ansible
+
 
 #### Cloud Native Developer:
 *February 2021 to November 2022 at Combitech*
@@ -88,6 +92,8 @@ everything relating to the underlying Linux VMs.
 Since I got to experience starting fresh in that project I got to learn a lot of
 both what works well when starting out and when more structured development
 processes begin to be needed.
+
+Tools: Kubernetes, Helmfile, Terraform, Azure, Bash, Rancher
 
 
 #### Software Developer\*:
@@ -107,3 +113,9 @@ Most notably:
   site included proper authentication and authorization, as well as an
   administration UI to add/update/delete products/binaries/users/permissions.
   It is still up at <https://dev.arcontia.se>.
+
+Tools: C++, Rust, Bash, Yocto
+
+
+#### Bachelor in Computer Science:
+*August 2016 to December 2019 at Chalmers University of Technology*
